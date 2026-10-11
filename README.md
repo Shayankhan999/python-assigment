@@ -1,4 +1,4 @@
--- Step 1: Data Load Ho Raha Hy ---
+--- Step 1: Data Load Ho Raha Hy ---
 Shuru mein Rows: 8631, Columns: 17
 
 --- Step 2: Data Ka Audit ---
